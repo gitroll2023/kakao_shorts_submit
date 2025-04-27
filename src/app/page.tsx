@@ -1,8 +1,6 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import Image from "next/image";
-import SubmitButton from "@/app/components/SubmitButton";
 import Modal from "@/app/components/Modal";
 import VideoModal from "@/app/components/VideoModal";
 
