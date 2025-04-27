@@ -177,7 +177,7 @@ export default function Home() {
                   <>
                     영상을 탭하면 미리보기,
                     <br className="sm:hidden" />
-                    길게 누르면 전체화면으로 볼 수 있습니다
+                    가능합니다.
                   </>
                 ) : (
                   <>
